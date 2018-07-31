@@ -15,5 +15,3 @@ get'/favorite-song'do
 end
 
 end
-
-run App
