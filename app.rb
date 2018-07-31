@@ -8,10 +8,10 @@ get'/name'do
 end
 
 get'/hometown'do
-  "My hometown is_"
+  "My hometown is Seattle"
 end
 
 get'/favorite-song'do
-  "My favorite-song"
+  "My favorite-song is"
 end
 
